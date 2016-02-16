@@ -1,0 +1,14 @@
+layout_spectrum: 0.5017921
+typography_spectrum: 0.3476703
+color:
+  saturation: 0.4842557
+  lightness: 0.3871526
+  brandStrength: 1
+  brandColors:
+    - '#161616'
+    - '#FFFFFF'
+    - '#BDAC9A'
+    - '#CFD7D0'
+    - '#4B4C4B'
+  rhythmicContrast: 0.8392569
+name: Maurice
