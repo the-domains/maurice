@@ -4,13 +4,13 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:0ab4d1a5-9881-4872-aac9-c4b27881ffef'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-16T23:16:42.576Z'
-dateModified: '2016-02-16T23:16:39.607Z'
+datePublished: '2016-02-16T23:16:55.075Z'
+dateModified: '2016-02-16T23:16:52.197Z'
 author: []
-title: 'Walking in the snow '
+title: Walking in the snow
 sourcePath: _posts/2016-02-16-why-my-feet-are-cold.md
 published: true
 authors: []
