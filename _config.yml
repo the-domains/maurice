@@ -1,14 +1,26 @@
-layout_spectrum: 0.5017921
-typography_spectrum: 0.3476703
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.4842557
-  lightness: 0.3871526
+  saturation: 0.4749104
   brandStrength: 1
+  lightness: 0.4964158
   brandColors:
-    - '#161616'
-    - '#FFFFFF'
-    - '#BDAC9A'
-    - '#CFD7D0'
-    - '#4B4C4B'
-  rhythmicContrast: 0.8392569
+    - '#030206'
+    - '#FCFCFF'
+    - '#FBB3AD'
+    - '#A2A3C6'
+    - '#392992'
+  rhythmicContrast: 1
+typography_spectrum: 0.4551971
+layout_spectrum: 0.5017921
 name: Maurice
