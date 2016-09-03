@@ -1,4 +1,3 @@
-layout_spectrum: 0.6009509302675724
 typography_spectrum: 0.1253676398191601
 color:
   saturation: 0.5307781076990068
@@ -11,6 +10,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
   rhythmicContrast: 0.07318537915125489
+layout_spectrum: 0.6009509302675724
 author:
   name: Maurice
   email: info@mauricevanlier.com
@@ -34,4 +34,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Artist
+title: ''
