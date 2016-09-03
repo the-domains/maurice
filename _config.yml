@@ -17,6 +17,10 @@ author:
   url: www.mauricevanlier.com
 logo: null
 name: Maurice van Lier
+navigation:
+  - name: About
+    id: 8e0c6592-77d0-4ec1-a4a6-435ca252a958
+    type: content
 favicon: null
 collections:
   - index:
