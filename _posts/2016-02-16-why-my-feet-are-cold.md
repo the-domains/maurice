@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:0ab4d1a5-9881-4872-aac9-c4b27881ffef'
 inLanguage: null
-starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-16T23:16:55.075Z'
-dateModified: '2016-02-16T23:16:52.197Z'
+datePublished: '2016-08-31T20:30:41.626Z'
+dateModified: '2016-08-31T20:30:41.154Z'
 author: []
 title: Walking in the snow
 sourcePath: _posts/2016-02-16-why-my-feet-are-cold.md
-published: true
 authors: []
 publisher:
-  name: ''
-  domain: ''
+  name: null
+  domain: null
   url: null
   favicon: null
+via: {}
+starred: true
+url: walking-in-the-snow/index.html
 _context: 'http://schema.org'
 _type: Article
 
