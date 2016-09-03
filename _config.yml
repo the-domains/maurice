@@ -1,3 +1,23 @@
+typography_spectrum: 0.4551971
+color:
+  saturation: 0.4749104
+  brandStrength: 1
+  lightness: 0.4964158
+  brandColors:
+    - '#030206'
+    - '#FCFCFF'
+    - '#FBB3AD'
+    - '#A2A3C6'
+    - '#392992'
+  rhythmicContrast: 1
+layout_spectrum: 0.5017921
+author:
+  name: Maurice
+  email: info@mauricevanlier.com
+  url: www.mauricevanlier.com
+logo: null
+name: Maurice van Lier
+favicon: null
 collections:
   - index:
       path: /
@@ -10,17 +30,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4749104
-  brandStrength: 1
-  lightness: 0.4964158
-  brandColors:
-    - '#030206'
-    - '#FCFCFF'
-    - '#FBB3AD'
-    - '#A2A3C6'
-    - '#392992'
-  rhythmicContrast: 1
-typography_spectrum: 0.4551971
-layout_spectrum: 0.5017921
-name: Maurice
+title: Artist
