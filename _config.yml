@@ -1,16 +1,16 @@
-typography_spectrum: 0.4551971
+layout_spectrum: 0.6009509302675724
+typography_spectrum: 0.1253676398191601
 color:
-  saturation: 0.4749104
-  brandStrength: 1
-  lightness: 0.4964158
+  saturation: 0.5307781076990068
+  brandStrength: 0.5181185014080256
+  lightness: 0.5971408339682966
   brandColors:
-    - '#030206'
-    - '#FCFCFF'
-    - '#FBB3AD'
-    - '#A2A3C6'
-    - '#392992'
-  rhythmicContrast: 1
-layout_spectrum: 0.5017921
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  rhythmicContrast: 0.07318537915125489
 author:
   name: Maurice
   email: info@mauricevanlier.com
