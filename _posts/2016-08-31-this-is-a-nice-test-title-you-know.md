@@ -1,17 +1,14 @@
 ---
-datePublished: '2016-08-31T19:25:43.295Z'
+datePublished: '2016-08-31T19:25:54.762Z'
+sourcePath: _posts/2016-08-31-this-is-a-nice-test-title-you-know.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T19:25:39.324Z'
+dateModified: '2016-08-31T19:25:54.058Z'
 title: This is a nice test title you know!
 publisher: {}
 description: Test title for now..
 starred: false
-sourcePath: _posts/2016-08-31-this-is-a-nice-test-title-you-know.md
-inFeed: true
-hasPage: true
-inNav: false
-url: this-is-a-nice-test-title-you-know/index.html
 _context: 'http://schema.org'
 _type: Article
 
